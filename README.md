@@ -7,7 +7,7 @@ As a versatile **full-stack engineer**, I am looking for a role that can benefit
 Increasingly interested in solving **UI/UX challenges**, I can dive-in and specialize as needed to build **thoughtful** and **robust solutions**.
 
 ## 💻🛠
-I have a lot of experience with Python, Django and the AWS stack on the backend, and with SvelteJS, TypeScript and HTML-CSS on the frontend, but I am a quick learner and can **apply my knowledge** of the craft to any language, framework and technological stack.
+I have a lot of experience with Python (including Django), TypeScript and the AWS stack on the backend, and with TypeScript (Svelte, React) and HTML & CSS on the frontend, but I am a quick learner and can **apply my knowledge** of the craft to any language, framework and technological stack.
 
 ## 👏🤝
 I am a **team-player**, and always look forward to **cross-training** opportunities, **technical discussions** and **strategic conversations** to make the most of **every team member**'s input.
@@ -20,4 +20,4 @@ Primarily searching for **on-site jobs** in **Centre-Val de Loire**, I stay open
 
 Interested? Want to know more?
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/anrobert/) and get in touch!
+Check out my [website](https://antoinerobert.fr/en) or my [LinkedIn profile](https://www.linkedin.com/in/anrobert/) and get in touch!
